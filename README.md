@@ -56,7 +56,7 @@ Contributions, issues and feature requests are welcome! Start by:
 
 - Github: [@tirthajyoti-ghosh](https://github.com/tirthajyoti-ghosh)
 - Twitter: [@TirthajyotiGho1](https://twitter.com/TirthajyotiGho1)
-- Linkedin: [tirthajyoti-ghosh](https://www.linkedin.com/in/tirthajyoti-ghosh-370544199/)
+- Linkedin: [tirthajyoti-ghosh](https://www.linkedin.com/in/tirthajyoti-ghosh/)
 
 👤 **Mbabali Iryn**
 
