@@ -23,7 +23,7 @@ Built with media queries to support all devices.
 
 ## Built With
 
-- HTML 5
+- HTML5
 
 - CSS 3
 
